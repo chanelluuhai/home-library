@@ -1,6 +1,6 @@
 # Little Shelf · Kệ sách của bé
 
-The app now lives in [denver-toddler-map](https://github.com/chanelluuhai/denver-toddler-map): https://chanelluuhai.github.io/denver-toddler-map/library/
+The app now lives in [personal-apps](https://github.com/chanelluuhai/personal-apps): https://chanelluuhai.github.io/personal-apps/library/
 
 A gentle digital home library for children’s books — built for Chanel Luu’s son. Categorize the shelf, watch genre coverage, heart favorites, and get age-aware recommendations (including Vietnamese and bilingual titles that often never show up in US ISBN databases).
 
